@@ -1,1 +1,1 @@
-Primeiro exercicio usando Git
+Portefólio da disciplina de PSI
